@@ -8,12 +8,12 @@
 
 ---
 
-##  Sobre Mí
+##  About Me
 
 <table>
   <tr>
     <td width="50%">
-      <h3> Especialidades</h3>
+      <h3> Specialisations </h3>
       <ul>
         <li>Mobile App Development (Kotlin)</li>
         <li>Java Backend</li>
@@ -22,10 +22,10 @@
       </ul>
     </td>
     <td width="50%">
-      <h3> Intereses</h3>
+      <h3> Interests </h3>
       <ul>
-        <li>Desarrollo de aplicaciones innovadoras</li>
-        <li>Arquitectura de software</li>
+        <li> Innovative app development </li>
+        <li>Software Arquitecture</li>
         <li>APIs REST</li>
         <li>Cloud Computing</li>
       </ul>
@@ -35,11 +35,11 @@
 
 ---
 
-##  Stack Tecnológico
+##  Stack 
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   
-| Lenguaje | Icono |
+| Language | Icon |
 |----------|-------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | Backend & Mobile |
 | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | Mobile |
@@ -56,7 +56,7 @@
 
 
 
-##  Estadísticas de GitHub
+##  GitHub Analitics
 
 <div align="center">
 
@@ -68,23 +68,23 @@
 
 ---
 
-##  En Constante Aprendizaje
+##  Continuous learning
 
 <div style="background-color: #f6f8fa; border-left: 4px solid #667eea; padding: 15px; border-radius: 8px; margin: 15px 0;">
 
 Actualmente estoy aprendiendo y explorando:
 
--  **Inteligencia Artificial**
--  **Desarrollo Multiplataforma (Kotlin Multiplatform)**
--  **Desarrollo Android (Kotlin {Jetpack Compose})**
--  **Backend Empresarial (Java {Spring Boot}, C# {.NET})**
--  **Aprendizaje Motores Graficos (Unity, Godot)**
+-  **Artificial Inteligence**
+-  **Multiplatform Development (Kotlin Multiplatform)**
+-  **Android Development (Kotlin {Jetpack Compose})**
+-  **Backend Development (Java {Spring Boot}, C# {.NET})**
+-  **Graphic Engines Learning (Unity, Godot)**
 
 </div>
 
 ---
 
-##  Conectemos
+##  Let's connect
 
 <div align="center"; style="justify-content: center;" >
 
