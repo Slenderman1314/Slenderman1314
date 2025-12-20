@@ -91,9 +91,9 @@ Actualmente estoy aprendiendo y explorando:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bono-joan)
 
 <table>
-   <tr>
+   <td>
        <p>Email: Joanbonoprog@gmail.com </p>
-   </tr>
+   </td>
 </table>
 
 </div>
