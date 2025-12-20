@@ -1,33 +1,30 @@
 
 <div align="center">
 
-# 👋 ¡Bienvenido a mi Perfil! 
 
-<img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Innovador+en+Tecnología;Apasionado+por+la+Programación" alt="Typing SVG" />
+<img width="1584" height="396" alt="Banner Github Joan Bono" src="https://github.com/user-attachments/assets/185557f4-83cb-4526-b09c-c95b59b56107" />
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+##  Sobre Mí
 
 <table>
   <tr>
     <td width="50%">
-      <h3>💻 Especialidades</h3>
+      <h3> Especialidades</h3>
       <ul>
-        <li>Full Stack Development</li>
         <li>Mobile App Development (Kotlin)</li>
-        <li>Web Development (Astro)</li>
         <li>Java Backend</li>
-        <li>AI & Machine Learning</li>
+        <li>AI Implementation</li>
+        <li>Database Implementation</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>🎯 Intereses</h3>
+      <h3> Intereses</h3>
       <ul>
         <li>Desarrollo de aplicaciones innovadoras</li>
-        <li>Prototipado rápido</li>
         <li>Arquitectura de software</li>
         <li>APIs REST</li>
         <li>Cloud Computing</li>
@@ -38,17 +35,20 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   
 | Lenguaje | Icono |
 |----------|-------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | Backend |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | Backend & Mobile |
 | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | Mobile |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Full Stack |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) | Markup |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Styling |
+| ![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white) | Web Backend |
+| ![C#](https://img.shields.io/badge/csharp-660066?style=for-the-badge&logo=csharp&logoColor=white) | Windows Ecosystem |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Web Development |
+| ![MySQL](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql&logoColor=blue) | Database |
+| ![PostGresSQL](https://img.shields.io/badge/postgresql-3399ff?style=for-the-badge&logo=postgresql&logoColor=black) | DataBase |
+| ![SQL Lite](https://img.shields.io/badge/sqlite-6699ff?style=for-the-badge&logo=sqlite&logoColor=black) | Full Stack |
 
 </div>
 
@@ -56,11 +56,11 @@
 
 
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api? username=Slenderman1314&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Slenderman1314)
+[![Stats Github](https://github-readme-stats.vercel.app/api?username=Slenderman1314)](https://github.com/Slenderman1314/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slenderman1314&layout=compact&theme=radical&hide_border=true)](https://github.com/Slenderman1314)
 
@@ -68,53 +68,36 @@
 
 ---
 
-## 🎓 En Constante Aprendizaje
+##  En Constante Aprendizaje
 
 <div style="background-color: #f6f8fa; border-left: 4px solid #667eea; padding: 15px; border-radius: 8px; margin: 15px 0;">
 
 Actualmente estoy aprendiendo y explorando:
 
-- 🔬 **Inteligencia Artificial & Machine Learning**
-- 🌐 **Desarrollo Web Avanzado**
-- 📱 **Desarrollo Multiplataforma (Flutter/Kotlin Multiplatform)**
-- ☁️ **Cloud Architecture (AWS, GCP)**
-- 🔐 **Seguridad en Aplicaciones**
+-  **Inteligencia Artificial**
+-  **Desarrollo Multiplataforma (Kotlin Multiplatform)**
+-  **Desarrollo Android (Kotlin {Jetpack Compose})**
+-  **Backend Empresarial (Java {Spring Boot}, C# {.NET})**
+-  **Aprendizaje Motores Graficos (Unity, Godot)**
 
 </div>
 
 ---
 
-## 🤝 Conectemos
+##  Conectemos
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000? style=for-the-badge&logo=github&logoColor=white)](https://github.com/Slenderman1314)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bono-joan)
 
 </div>
 
 ---
 
-## 💡 Filosofía de Código
-
-<blockquote style="border-left:  4px solid #667eea; padding-left: 15px; margin: 20px 0; font-size: 16px; font-style: italic;">
-
-> "El código limpio no es un lujo, es una necesidad.  Cada línea que escribo es una promesa de mantenibilidad, escalabilidad y excelencia."
-
-</blockquote>
-
----
 
 <div align="center">
 
-### ⚡ Fun Fact
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Slenderman1314&color=blueviolet)
-
-**Hecho con ❤️ por Slenderman1314**
-
-*Última actualización: 20/12/2025*
 
 </div>
