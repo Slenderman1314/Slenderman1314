@@ -90,7 +90,7 @@ Actualmente estoy aprendiendo y explorando:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bono-joan)
 
-<table>
+<table style="justify-content: center;" >
    <td width="50%">
        <p>Email:<strong> Joanbonoprog@gmail.com </p>
    </td>
