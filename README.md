@@ -40,10 +40,10 @@
   
 | Language | Icon |
 |----------|-------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | Backend & Mobile |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | Backend & Mobile |
 | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | Mobile |
 | ![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white) | Web Backend |
-| ![C#](https://img.shields.io/badge/csharp-660066?style=for-the-badge&logo=csharp&logoColor=white) | Windows Ecosystem |
+| ![C#](https://img.shields.io/badge/c%23-660066?style=for-the-badge&logo=c&logoColor=white) | Windows Ecosystem |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Web Development |
 | ![MySQL](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql&logoColor=blue) | Database |
 | ![PostGresSQL](https://img.shields.io/badge/postgresql-3399ff?style=for-the-badge&logo=postgresql&logoColor=black) | DataBase |
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![Stats Github](https://github-readme-stats.vercel.app/api?username=Slenderman1314)](https://github.com/Slenderman1314/github-readme-stats)
+[![Joan's GitHub Analitics](https://github-readme-stats.vercel.app/api?username=Slenderman1314&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Slenderman1314/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slenderman1314&layout=compact&theme=radical&hide_border=true)](https://github.com/Slenderman1314)
 
