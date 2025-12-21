@@ -55,7 +55,7 @@
 
 
 
-##  GitHub Analitics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -67,11 +67,11 @@
 
 ---
 
-##  Continuous learning
+##  Continuous Learning
 
 <div style="background-color: #f6f8fa; border-left: 4px solid #667eea; padding: 15px; border-radius: 8px; margin: 15px 0;">
 
-Actualmente estoy aprendiendo y explorando:
+I'm currently learning and exploring:
 
 -  **Artificial Inteligence**
 -  **Multiplatform Development (Kotlin Multiplatform)**
