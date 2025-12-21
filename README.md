@@ -41,7 +41,7 @@
 | Language | Icon |
 |----------|-------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | Backend & Mobile |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | Mobile |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | Mobile Development |
 | ![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white) | Web Backend |
 | ![C#](https://img.shields.io/badge/c%23-660066?style=for-the-badge&logo=c&logoColor=white) | Windows Ecosystem |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Web Development |
