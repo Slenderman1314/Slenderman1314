@@ -2,7 +2,8 @@
 <div align="center">
 
 
-<img width="1584" height="396" alt="Banner Github Joan Bono" src="https://github.com/user-attachments/assets/185557f4-83cb-4526-b09c-c95b59b56107" />
+<img width="1584" height="396" alt="Banner Github Joan Bono" src="https://github.com/user-attachments/assets/0a95f51c-eabc-4275-bea1-61473becd763" />
+
 
 </div>
 
@@ -12,7 +13,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" >
       <h3> Specialisations </h3>
       <ul>
         <li>Mobile App Development (Kotlin)</li>
@@ -21,7 +22,7 @@
         <li>Database Implementation</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="50%%">
       <h3> Interests </h3>
       <ul>
         <li> Innovative app development </li>
