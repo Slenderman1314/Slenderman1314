@@ -36,7 +36,7 @@
 
 ##  Stack 
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;" align="center">
   
 | Language | Icon |
 |----------|-------|
