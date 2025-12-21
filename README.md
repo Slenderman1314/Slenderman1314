@@ -47,7 +47,7 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Web Development |
 | ![MySQL](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql&logoColor=blue) | Database |
 | ![PostGresSQL](https://img.shields.io/badge/postgresql-3399ff?style=for-the-badge&logo=postgresql&logoColor=black) | DataBase |
-| ![SQL Lite](https://img.shields.io/badge/sqlite-6699ff?style=for-the-badge&logo=sqlite&logoColor=black) | Full Stack |
+| ![SQL Lite](https://img.shields.io/badge/sqlite-6699ff?style=for-the-badge&logo=sqlite&logoColor=black) | Local Database |
 
 </div>
 
