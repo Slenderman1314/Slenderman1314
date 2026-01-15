@@ -54,19 +54,6 @@
 ---
 
 
-
-##  GitHub Analytics
-
-<div align="center">
-
-[![Joan's GitHub Analytics](https://github-readme-stats-git-masterhst9.vercel.app/api?username=Slenderman1314&show_icons=true&theme=dark)](github.com)
-
-[![Top Langs](github-readme-stats-git-masterhst9.vercel.app)](github.com)
-
-</div>
-
----
-
 ##  Continuous Learning
 
 <div style="background-color: #f6f8fa; border-left: 4px solid #667eea; padding: 15px; border-radius: 8px; margin: 15px 0;">
