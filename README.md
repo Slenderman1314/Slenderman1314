@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Joan's GitHub Analitics](https://github-readme-stats.vercel.app/api?username=Slenderman1314&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Slenderman1314/github-readme-stats#gh-dark-mode-only)
+[![Joan's GitHub Analytics](https://github-readme-stats-git-masterhst9.vercel.app/api?username=Slenderman1314&show_icons=true&theme=dark)](github.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slenderman1314&layout=normal&theme=dark)](https://github.com/Slenderman1314)
+[![Top Langs](github-readme-stats-git-masterhst9.vercel.app)](github.com)
 
 </div>
 
